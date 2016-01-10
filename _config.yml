@@ -1,0 +1,28 @@
+name: HoFaye
+favicon: null
+layout_spectrum: 0.9210968010593206
+typography_spectrum: 0.0651360226329416
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2770265410654247
+  lightness: 0.06520839012227952
+  saturation: 0.4915732960216701
+  rhythmicContrast: 0.32859261822886765
+purpose: []
