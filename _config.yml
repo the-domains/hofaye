@@ -1,7 +1,7 @@
 name: HoFaye
 favicon: null
 layout_spectrum: 0.89574
-typography_spectrum: 0.0651360226329416
+typography_spectrum: 0.82593
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#DD403A'
   brandStrength: 0.2770265410654247
   lightness: 0.06520839012227952
-  saturation: 0.4915732960216701
+  saturation: 0.125
   rhythmicContrast: 0.32859261822886765
 purpose: []
