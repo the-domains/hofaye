@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'almost complete... #HoFaye'
-datePublished: '2016-01-20T03:59:52.553Z'
-dateModified: '2016-01-20T03:58:41.119Z'
+datePublished: '2016-01-20T04:01:19.559Z'
+dateModified: '2016-01-20T04:01:16.459Z'
 title: I connected; U.
 author: []
+sourcePath: _posts/2016-01-20-i-connected-u.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-20-i-connected-u.md
-published: true
 url: i-connected-u/index.html
 _type: Blurb
 
@@ -25,3 +25,4 @@ _type: Blurb
 personal project nearing completion 
 
 I connected; U.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/70c3f1ae-e181-42a6-bcb3-91035d37ceb0.gif)
