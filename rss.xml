@@ -4,21 +4,21 @@
         <description><![CDATA[HoFaye]]></description>
         <link>https://thegrid.ai/hofaye/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 04:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 04:10:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hofaye/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbe445ef-e506-4d73-9b55-72363d15caf9.jpg">]]></description>
+            <link>https://thegrid.ai/hofaye/0eea6b99-c0d3-4d85-868c-a5faf503cbf2/index.html</link>
+            <guid isPermaLink="false">0eea6b99-c0d3-4d85-868c-a5faf503cbf2</guid>
+            <pubDate>Wed, 20 Jan 2016 04:10:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I connected; U.]]></title>
             <description><![CDATA[<article><h1>I connected; U.</h1><p>personal project nearing completion </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c70a0d1584b3a4722f728b641fbb76c1a9ee6d0.gif"></article>]]></description>
             <link>https://thegrid.ai/hofaye/i-connected-u/index.html</link>
             <guid isPermaLink="false">b7c60346-43a7-403f-a5b6-c0efdc101e76</guid>
             <pubDate>Wed, 20 Jan 2016 04:07:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbe445ef-e506-4d73-9b55-72363d15caf9.jpg">]]></description>
-            <link>https://thegrid.ai/hofaye/0eea6b99-c0d3-4d85-868c-a5faf503cbf2/index.html</link>
-            <guid isPermaLink="false">0eea6b99-c0d3-4d85-868c-a5faf503cbf2</guid>
-            <pubDate>Wed, 20 Jan 2016 04:09:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
