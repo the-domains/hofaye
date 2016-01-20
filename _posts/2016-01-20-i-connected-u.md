@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: 'almost complete... #HoFaye'
-datePublished: '2016-01-20T04:01:19.570Z'
-dateModified: '2016-01-20T04:01:16.459Z'
+datePublished: '2016-01-20T04:07:43.092Z'
+dateModified: '2016-01-20T04:07:36.313Z'
 title: I connected; U.
 author: []
 sourcePath: _posts/2016-01-20-i-connected-u.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: i-connected-u/index.html
-_type: Blurb
+_type: Article
 
 ---
 personal project nearing completion 
