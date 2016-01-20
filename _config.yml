@@ -2,6 +2,7 @@ name: HoFaye
 favicon: null
 layout_spectrum: 0.89574
 typography_spectrum: 0.82593
+title: HoFaye
 cta:
   domain: null
   bucket: null
