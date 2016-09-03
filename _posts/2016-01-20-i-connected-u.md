@@ -1,28 +1,24 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: true
-keywords: []
-description: 'almost complete... #HoFaye'
-datePublished: '2016-01-20T04:07:59.597Z'
-dateModified: '2016-01-20T04:07:58.593Z'
-title: I connected; U.
-author: []
+datePublished: '2016-09-01T07:03:37.305Z'
 sourcePath: _posts/2016-01-20-i-connected-u.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-09-01T07:03:36.445Z'
+title: ''
+publisher: {}
+description: personal project nearing completion
+inLanguage: null
+inNav: false
+starred: false
 url: i-connected-u/index.html
 _type: Article
 
 ---
-personal project nearing completion 
+personal project nearing completion
 
 I connected; U.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/70c3f1ae-e181-42a6-bcb3-91035d37ceb0.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c70a0d1584b3a4722f728b641fbb76c1a9ee6d0.gif)
